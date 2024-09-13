@@ -10,7 +10,7 @@
 
 <!-- 好きな技術スタックに変更 -->
 ## :seedling: Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,tensorflow,r,c,java,html,js,django,react,androidstudio,,css,bootstrap,docker,kubernetes,postgres,sqlite,mongodb,ubuntu,linux,bash,anaconda,git,github,regex" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,tensorflow,r,c,java,html,js,django,react,androidstudio,css,bootstrap,docker,kubernetes,postgres,sqlite,mongodb,ubuntu,linux,bash,anaconda,git,github,regex" />
 <br>
 
 <!-- GitHub usernameを変更, 2箇所 -->
