@@ -1,6 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=s1f10220227" />
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
@@ -10,7 +10,7 @@
 
 <!-- 好きな技術スタックに変更 -->
 ## :seedling: Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i="py,tensorflow,r,c,java,html,css,js,django,react,bootstrap,docker,kubernetes,postgres,sqlite,mongodb,ubuntu,linux,regexk" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,tensorflow,r,c,java,html,css,js,django,react,bootstrap,docker,kubernetes,postgres,sqlite,mongodb,ubuntu,linux,regexk" />
 <br>
 
 <!-- GitHub usernameを変更, 2箇所 -->
