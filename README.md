@@ -33,7 +33,7 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: s1f10220227/s1f10220227@main
+      - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "97RPYYS"
           # 以下オプション
